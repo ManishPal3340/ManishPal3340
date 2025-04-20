@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-I am current a student
+I am **Manish Pal**, a passionate Java developer with a diverse skill set and extensive experience in building dynamic web applications. With a strong foundation in **Core Java**, I have worked extensively with technologies like **Spring Boot**, **Spring MVC**, **Hibernate**, and **JSP** to develop scalable, high-performance applications. My expertise also includes working with front-end technologies such as **HTML**, **CSS**, **JavaScript**, **ReactJS**, and integrating them with back-end solutions to create seamless user experiences. I'm proficient in database management with **SQL** and **MySQL**, ensuring smooth data flow and robust storage solutions.
+
+I thrive in fast-paced environments, leveraging modern tools such as **IntelliJ IDEA**, **Eclipse**, **VS Code**, **Postman**, **Git**, and **GitHub** to streamline my development process. With a keen eye for detail and a strong focus on quality, I am always eager to improve my skills and embrace new challenges. Whether it's developing RESTful APIs, optimizing performance, or collaborating with cross-functional teams, I bring a passion for innovation and a commitment to delivering exceptional software solutions. 🚀💻
 
 
 # 💻 Tech Stack:
